@@ -2,7 +2,7 @@
 ## Project Title : Quora Insincere Questions Classifications
 Quora is a website where a community of users can ask and answer questions. They may also create Q&A blogs and analyze statistics about the users as well. The relevance of question is often taken as into consideration and is necessary to prevent an unnecessary or redundant question that might affect different set of people. Quora Insincere questions arises when people ask questions that is intended to make statement rather than look for helpful answers. Questions consisting of an non-neutral term,  disparaging, inflammatory or is not grounded in reality can be classified as Insincere questions.
 
-Results:
+## Results:
 
 1. LDA
 
