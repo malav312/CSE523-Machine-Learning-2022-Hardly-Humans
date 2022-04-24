@@ -28,7 +28,7 @@ Quora is a website where a community of users can ask and answer questions. They
 
 ![confusion_matrix_SVM](https://user-images.githubusercontent.com/71372587/164989721-257aca66-65df-4123-95f5-54069e15ac2a.png)
 
-#References
+# References
 
 1. S. T. Indra, L. Wikarsa and R. Turang, "Using logistic regression method to classify tweets into the selected topics," 2016 International Conference on Advanced Computer Science and Information Systems (ICACSIS), 2016, pp. 385-390, doi: 10.1109/ICACSIS.2016.7872727.
 2. O. Aborisade and M. Anwar, "Classification for Authorship of Tweets by Comparing Logistic Regression and Naive Bayes Classifiers," 2018 IEEE International Conference on Information Reuse and Integration (IRI), 2018, pp. 269-276, doi: 10.1109/IRI.2018.00049.
